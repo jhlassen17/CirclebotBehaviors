@@ -1,8 +1,1 @@
 This is a fork/pull so I don't screw up our working code.
-
-My goals are the following:
-
-1.	Add comments, which I know everybody hates
-2.  Re-factor the light sensing behaviors so they use a base class.  This should be more efficient since the code across these three classes is almost the same.
-3.  Optimize any other pre-existing code blocks.
-4.	Add features that we think may be useful.  I don't know what those features are yet.
